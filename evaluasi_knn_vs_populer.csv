@@ -1,0 +1,201 @@
+visitorid,Model,Precision@5,Recall@5,Hit@5,NDCG@5
+989369,KNN user-based (k=5),0.0,0.0,0,0.0
+989369,Baseline populer,0.0,0.0,0,0.0
+1220372,KNN user-based (k=5),0.0,0.0,0,0.0
+1220372,Baseline populer,0.0,0.0,0,0.0
+1297062,KNN user-based (k=5),0.0,0.0,0,0.0
+1297062,Baseline populer,0.0,0.0,0,0.0
+246796,KNN user-based (k=5),0.0,0.0,0,0.0
+246796,Baseline populer,0.0,0.0,0,0.0
+1218886,KNN user-based (k=5),0.0,0.0,0,0.0
+1218886,Baseline populer,0.0,0.0,0,0.0
+1398811,KNN user-based (k=5),0.0,0.0,0,0.0
+1398811,Baseline populer,0.0,0.0,0,0.0
+1124964,KNN user-based (k=5),0.0,0.0,0,0.0
+1124964,Baseline populer,0.0,0.0,0,0.0
+1379388,KNN user-based (k=5),0.0,0.0,0,0.0
+1379388,Baseline populer,0.0,0.0,0,0.0
+739007,KNN user-based (k=5),0.0,0.0,0,0.0
+739007,Baseline populer,0.0,0.0,0,0.0
+918277,KNN user-based (k=5),0.0,0.0,0,0.0
+918277,Baseline populer,0.0,0.0,0,0.0
+317355,KNN user-based (k=5),0.0,0.0,0,0.0
+317355,Baseline populer,0.0,0.0,0,0.0
+597870,KNN user-based (k=5),0.0,0.0,0,0.0
+597870,Baseline populer,0.0,0.0,0,0.0
+1287860,KNN user-based (k=5),0.0,0.0,0,0.0
+1287860,Baseline populer,0.0,0.0,0,0.0
+358806,KNN user-based (k=5),0.0,0.0,0,0.0
+358806,Baseline populer,0.0,0.0,0,0.0
+1104027,KNN user-based (k=5),0.0,0.0,0,0.0
+1104027,Baseline populer,0.0,0.0,0,0.0
+1170165,KNN user-based (k=5),0.0,0.0,0,0.0
+1170165,Baseline populer,0.0,0.0,0,0.0
+150651,KNN user-based (k=5),0.0,0.0,0,0.0
+150651,Baseline populer,0.0,0.0,0,0.0
+672785,KNN user-based (k=5),0.0,0.0,0,0.0
+672785,Baseline populer,0.0,0.0,0,0.0
+1273306,KNN user-based (k=5),0.0,0.0,0,0.0
+1273306,Baseline populer,0.0,0.0,0,0.0
+953897,KNN user-based (k=5),0.2,1.0,1,0.38685280723454163
+953897,Baseline populer,0.0,0.0,0,0.0
+1003058,KNN user-based (k=5),0.0,0.0,0,0.0
+1003058,Baseline populer,0.0,0.0,0,0.0
+614161,KNN user-based (k=5),0.0,0.0,0,0.0
+614161,Baseline populer,0.0,0.0,0,0.0
+732974,KNN user-based (k=5),0.0,0.0,0,0.0
+732974,Baseline populer,0.0,0.0,0,0.0
+1133112,KNN user-based (k=5),0.0,0.0,0,0.0
+1133112,Baseline populer,0.0,0.0,0,0.0
+132066,KNN user-based (k=5),0.2,0.25,1,0.19519002499605084
+132066,Baseline populer,0.0,0.0,0,0.0
+668510,KNN user-based (k=5),0.0,0.0,0,0.0
+668510,Baseline populer,0.0,0.0,0,0.0
+705542,KNN user-based (k=5),0.0,0.0,0,0.0
+705542,Baseline populer,0.2,0.02040816326530612,1,0.16958010263680806
+502408,KNN user-based (k=5),0.0,0.0,0,0.0
+502408,Baseline populer,0.0,0.0,0,0.0
+1053145,KNN user-based (k=5),0.0,0.0,0,0.0
+1053145,Baseline populer,0.0,0.0,0,0.0
+837377,KNN user-based (k=5),0.0,0.0,0,0.0
+837377,Baseline populer,0.0,0.0,0,0.0
+1219375,KNN user-based (k=5),0.0,0.0,0,0.0
+1219375,Baseline populer,0.0,0.0,0,0.0
+675646,KNN user-based (k=5),0.0,0.0,0,0.0
+675646,Baseline populer,0.0,0.0,0,0.0
+1401744,KNN user-based (k=5),0.0,0.0,0,0.0
+1401744,Baseline populer,0.0,0.0,0,0.0
+1083118,KNN user-based (k=5),0.0,0.0,0,0.0
+1083118,Baseline populer,0.0,0.0,0,0.0
+1122231,KNN user-based (k=5),0.0,0.0,0,0.0
+1122231,Baseline populer,0.0,0.0,0,0.0
+198153,KNN user-based (k=5),0.0,0.0,0,0.0
+198153,Baseline populer,0.0,0.0,0,0.0
+155254,KNN user-based (k=5),0.0,0.0,0,0.0
+155254,Baseline populer,0.0,0.0,0,0.0
+1117079,KNN user-based (k=5),0.0,0.0,0,0.0
+1117079,Baseline populer,0.0,0.0,0,0.0
+202730,KNN user-based (k=5),0.0,0.0,0,0.0
+202730,Baseline populer,0.0,0.0,0,0.0
+1301268,KNN user-based (k=5),0.0,0.0,0,0.0
+1301268,Baseline populer,0.0,0.0,0,0.0
+1302475,KNN user-based (k=5),0.0,0.0,0,0.0
+1302475,Baseline populer,0.0,0.0,0,0.0
+514825,KNN user-based (k=5),0.0,0.0,0,0.0
+514825,Baseline populer,0.0,0.0,0,0.0
+85734,KNN user-based (k=5),0.0,0.0,0,0.0
+85734,Baseline populer,0.0,0.0,0,0.0
+1381830,KNN user-based (k=5),0.0,0.0,0,0.0
+1381830,Baseline populer,0.0,0.0,0,0.0
+616565,KNN user-based (k=5),0.0,0.0,0,0.0
+616565,Baseline populer,0.0,0.0,0,0.0
+863219,KNN user-based (k=5),0.0,0.0,0,0.0
+863219,Baseline populer,0.0,0.0,0,0.0
+761298,KNN user-based (k=5),0.0,0.0,0,0.0
+761298,Baseline populer,0.0,0.0,0,0.0
+1000306,KNN user-based (k=5),0.0,0.0,0,0.0
+1000306,Baseline populer,0.0,0.0,0,0.0
+1159544,KNN user-based (k=5),0.0,0.0,0,0.0
+1159544,Baseline populer,0.0,0.0,0,0.0
+1151156,KNN user-based (k=5),0.0,0.0,0,0.0
+1151156,Baseline populer,0.0,0.0,0,0.0
+671264,KNN user-based (k=5),0.0,0.0,0,0.0
+671264,Baseline populer,0.0,0.0,0,0.0
+45183,KNN user-based (k=5),0.0,0.0,0,0.0
+45183,Baseline populer,0.0,0.0,0,0.0
+507994,KNN user-based (k=5),0.0,0.0,0,0.0
+507994,Baseline populer,0.0,0.0,0,0.0
+1188952,KNN user-based (k=5),0.0,0.0,0,0.0
+1188952,Baseline populer,0.0,0.0,0,0.0
+899857,KNN user-based (k=5),0.0,0.0,0,0.0
+899857,Baseline populer,0.0,0.0,0,0.0
+542287,KNN user-based (k=5),0.0,0.0,0,0.0
+542287,Baseline populer,0.0,0.0,0,0.0
+1015928,KNN user-based (k=5),0.0,0.0,0,0.0
+1015928,Baseline populer,0.0,0.0,0,0.0
+1038112,KNN user-based (k=5),0.0,0.0,0,0.0
+1038112,Baseline populer,0.0,0.0,0,0.0
+1210136,KNN user-based (k=5),0.0,0.0,0,0.0
+1210136,Baseline populer,0.0,0.0,0,0.0
+1034756,KNN user-based (k=5),0.0,0.0,0,0.0
+1034756,Baseline populer,0.0,0.0,0,0.0
+968892,KNN user-based (k=5),0.0,0.0,0,0.0
+968892,Baseline populer,0.0,0.0,0,0.0
+1302191,KNN user-based (k=5),0.0,0.0,0,0.0
+1302191,Baseline populer,0.0,0.0,0,0.0
+608337,KNN user-based (k=5),0.0,0.0,0,0.0
+608337,Baseline populer,0.0,0.0,0,0.0
+1001230,KNN user-based (k=5),0.0,0.0,0,0.0
+1001230,Baseline populer,0.0,0.0,0,0.0
+537913,KNN user-based (k=5),0.0,0.0,0,0.0
+537913,Baseline populer,0.0,0.0,0,0.0
+705106,KNN user-based (k=5),0.0,0.0,0,0.0
+705106,Baseline populer,0.0,0.0,0,0.0
+1357054,KNN user-based (k=5),0.0,0.0,0,0.0
+1357054,Baseline populer,0.0,0.0,0,0.0
+371606,KNN user-based (k=5),0.0,0.0,0,0.0
+371606,Baseline populer,0.0,0.0,0,0.0
+250571,KNN user-based (k=5),0.0,0.0,0,0.0
+250571,Baseline populer,0.0,0.0,0,0.0
+396571,KNN user-based (k=5),0.0,0.0,0,0.0
+396571,Baseline populer,0.0,0.0,0,0.0
+1008739,KNN user-based (k=5),0.0,0.0,0,0.0
+1008739,Baseline populer,0.0,0.0,0,0.0
+693709,KNN user-based (k=5),0.0,0.0,0,0.0
+693709,Baseline populer,0.0,0.0,0,0.0
+932290,KNN user-based (k=5),0.0,0.0,0,0.0
+932290,Baseline populer,0.0,0.0,0,0.0
+101175,KNN user-based (k=5),0.0,0.0,0,0.0
+101175,Baseline populer,0.0,0.0,0,0.0
+960773,KNN user-based (k=5),0.0,0.0,0,0.0
+960773,Baseline populer,0.0,0.0,0,0.0
+276188,KNN user-based (k=5),0.0,0.0,0,0.0
+276188,Baseline populer,0.0,0.0,0,0.0
+1239304,KNN user-based (k=5),0.0,0.0,0,0.0
+1239304,Baseline populer,0.0,0.0,0,0.0
+148646,KNN user-based (k=5),0.0,0.0,0,0.0
+148646,Baseline populer,0.0,0.0,0,0.0
+857013,KNN user-based (k=5),0.0,0.0,0,0.0
+857013,Baseline populer,0.0,0.0,0,0.0
+729150,KNN user-based (k=5),0.0,0.0,0,0.0
+729150,Baseline populer,0.0,0.0,0,0.0
+784625,KNN user-based (k=5),0.0,0.0,0,0.0
+784625,Baseline populer,0.0,0.0,0,0.0
+415569,KNN user-based (k=5),0.0,0.0,0,0.0
+415569,Baseline populer,0.0,0.0,0,0.0
+1139909,KNN user-based (k=5),0.0,0.0,0,0.0
+1139909,Baseline populer,0.0,0.0,0,0.0
+264190,KNN user-based (k=5),0.0,0.0,0,0.0
+264190,Baseline populer,0.0,0.0,0,0.0
+952700,KNN user-based (k=5),0.0,0.0,0,0.0
+952700,Baseline populer,0.0,0.0,0,0.0
+1015139,KNN user-based (k=5),0.0,0.0,0,0.0
+1015139,Baseline populer,0.0,0.0,0,0.0
+316560,KNN user-based (k=5),0.0,0.0,0,0.0
+316560,Baseline populer,0.0,0.0,0,0.0
+483048,KNN user-based (k=5),0.0,0.0,0,0.0
+483048,Baseline populer,0.0,0.0,0,0.0
+1261067,KNN user-based (k=5),0.0,0.0,0,0.0
+1261067,Baseline populer,0.0,0.0,0,0.0
+530559,KNN user-based (k=5),0.0,0.0,0,0.0
+530559,Baseline populer,0.2,0.0035211267605633804,1,0.14606834984270645
+224799,KNN user-based (k=5),0.0,0.0,0,0.0
+224799,Baseline populer,0.0,0.0,0,0.0
+1042112,KNN user-based (k=5),0.0,0.0,0,0.0
+1042112,Baseline populer,0.0,0.0,0,0.0
+548772,KNN user-based (k=5),0.0,0.0,0,0.0
+548772,Baseline populer,0.0,0.0,0,0.0
+643195,KNN user-based (k=5),0.0,0.0,0,0.0
+643195,Baseline populer,0.0,0.0,0,0.0
+496313,KNN user-based (k=5),0.0,0.0,0,0.0
+496313,Baseline populer,0.0,0.0,0,0.0
+518659,KNN user-based (k=5),0.0,0.0,0,0.0
+518659,Baseline populer,0.0,0.0,0,0.0
+843838,KNN user-based (k=5),0.0,0.0,0,0.0
+843838,Baseline populer,0.0,0.0,0,0.0
+1296635,KNN user-based (k=5),0.0,0.0,0,0.0
+1296635,Baseline populer,0.0,0.0,0,0.0
+800487,KNN user-based (k=5),0.0,0.0,0,0.0
+800487,Baseline populer,0.0,0.0,0,0.0
+274981,KNN user-based (k=5),0.0,0.0,0,0.0
+274981,Baseline populer,0.0,0.0,0,0.0
